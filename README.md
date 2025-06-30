@@ -1,16 +1,13 @@
 # Smart-Agriculture-System-IoT-Project
-Internship Project at TEQUED LABS (Bangalore)
+3rd year Project at Rajasthan Technical University (Kota)
 
-
-About TEQUED LABS
-https://github.com/kharniwal-harsh/Smart-Agriculture-System-Using-IOT/blob/main/About%20TEQUED%20LABS.txt
 
 
 TASK PERFORMED:
 PROBLEM STATEMENT 
 Develop a smart agriculture dashboard to measure parameters like moisture, ph. level, sunlight and other such parameters and create a dashboard to display all parameters and also buttons for controlling water pumps.
 Read More:
-https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/PROBLEM%20STATEMENT.txt
+https://github.com/kharniwal-harsh/Smart-Agriculture-System-Using-IOT/blob/main/PROBLEM%20STATEMENT.txt
  
 Tools Used:
 Software Tools
@@ -62,13 +59,13 @@ Battery of 9/12V
 
 ![image](https://user-images.githubusercontent.com/64147100/136645755-297489e7-405a-4d78-a931-0fc2e63cf590.png)
 
-Read More: https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/Hardware%20Tools.txt
+Read More: https://github.com/kharniwal-harsh/Smart-Agriculture-System-Using-IOT/blob/main/Hardware%20Tools.txt
 
 
 3.6 Methodology
 3.6.1 Interfacing code for sensors and NodeMCU
 code:
-https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/smartAgri.ino
+https://github.com/kharniwal-harsh/Smart-Agriculture-System-Using-IOT/blob/main/smartAgri.ino
 __________________________________________________________________________
  
 Gauge setup in Blync app
@@ -132,7 +129,7 @@ d.	Connect the A0 of Soil Moisture Sensor to the D3 of NodeMCU.
 CHAPTER 4
 EXECUTIVE SUMMARY
 IoT based SMART AGRICULTURE SYSTEM for Live Monitoring of Soil Moisture, Temperature and Humidity has been proposed using NodeMCU with some Sensors and Cloud Computing. The System has high efficiency and accuracy in fetching the live data of temperature and soil moisture. The IoT based smart farming System being proposed via this report will assist farmers in increasing the agriculture yield and take efficient care of food production as the System will always provide helping hand to farmers for getting accurate live feed of environmental temperature, humidity and soil moisture with more than 99% accurate results.
-Tequed Labs understand this need to move beyond the brick-and-mortar inlet to future-proof business and out the right solutions and technologies to give you an edge over other competitors. They work to come up with a solution that best suits business model, size and customers. They expertise lies in having in-depth knowledge, vast experience and exposure in automating business processes, offering effective solutions to transform them into business objectives. They have an adept team with best of breed technologies to change the growth story of anyone’s business.
+
 The work performed during my internship tenure was to build a smart agriculture dashboard to monitor soil moisture, temperature, humidity and such related things for the automation of agriculture where the land owner can easily keep track of the soil condition of his land and get notify if the water is to be supplied to the land when the moisture gets low in the soil. The Blynk app provide the best UI to monitor the agriculture land via gauges, timer and switches where the timer can be set to water the field automatically and can also be controlled manually. 
 
 
