@@ -3,7 +3,7 @@ Internship Project at TEQUED LABS (Bangalore)
 
 
 About TEQUED LABS
-https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/About%20TEQUED%20LABS.txt
+https://github.com/kharniwal-harsh/Smart-Agriculture-System-Using-IOT/blob/main/About%20TEQUED%20LABS.txt
 
 
 TASK PERFORMED:
